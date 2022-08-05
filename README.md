@@ -6,9 +6,12 @@ Framework ultra sencillo para manejar aplicaciones sencillas sin muchos controle
 
 Framework para copiar y pegar todos los archivos.
 
-Es necesario crear una base de datos y aplicar el users.sql para crear una tabla de usuarios básica con los datos de un usuario genérico (que todos ya sabemos cómo es mi usuario y contraseña).
+Es necesario crear una base de datos y aplicar el users.sql para crear una tabla de usuarios básica con los datos de un usuario genérico:
 
-Luego, en el .en se actualizan los valores de conexión al MySQL
+- Correo: admin@admin.com
+- Contraseña: 123456
+
+Luego, en el .env se actualizan los valores de conexión al MySQL
 
 ### Archivo .env
 
