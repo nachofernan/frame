@@ -1,0 +1,23 @@
+{
+    "name": "nacho/stories2",
+    "description": "Project Stories - Mark II",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ignacio Fernandez",
+            "email": "nachofernan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "opis/database": "^4.2",
+        "bramus/router": "~1.6",
+        "opis/orm": "1.0.x-dev",
+        "twbs/bootstrap": "5.2.0",
+        "symfony/dotenv": "5.4.x-dev"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "5.4.x-dev"
+    }
+}
